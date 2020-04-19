@@ -1,6 +1,0 @@
-C:\Users\Petusos\Desktop\Curso completo programación .NET CORE(C#)\Colleciones\Colleciones\bin\Debug\Colleciones.exe.config
-C:\Users\Petusos\Desktop\Curso completo programación .NET CORE(C#)\Colleciones\Colleciones\bin\Debug\Colleciones.exe
-C:\Users\Petusos\Desktop\Curso completo programación .NET CORE(C#)\Colleciones\Colleciones\bin\Debug\Colleciones.pdb
-C:\Users\Petusos\Desktop\Curso completo programación .NET CORE(C#)\Colleciones\Colleciones\obj\Debug\Colleciones.csprojResolveAssemblyReference.cache
-C:\Users\Petusos\Desktop\Curso completo programación .NET CORE(C#)\Colleciones\Colleciones\obj\Debug\Colleciones.exe
-C:\Users\Petusos\Desktop\Curso completo programación .NET CORE(C#)\Colleciones\Colleciones\obj\Debug\Colleciones.pdb
