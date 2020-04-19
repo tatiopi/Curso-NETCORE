@@ -1,0 +1,6 @@
+C:\Users\Petusos\Desktop\Curso completo programación .NET CORE(C#)\PilasOStacks\PilasOStacks\bin\Debug\PilasOStacks.exe.config
+C:\Users\Petusos\Desktop\Curso completo programación .NET CORE(C#)\PilasOStacks\PilasOStacks\bin\Debug\PilasOStacks.exe
+C:\Users\Petusos\Desktop\Curso completo programación .NET CORE(C#)\PilasOStacks\PilasOStacks\bin\Debug\PilasOStacks.pdb
+C:\Users\Petusos\Desktop\Curso completo programación .NET CORE(C#)\PilasOStacks\PilasOStacks\obj\Debug\PilasOStacks.csprojResolveAssemblyReference.cache
+C:\Users\Petusos\Desktop\Curso completo programación .NET CORE(C#)\PilasOStacks\PilasOStacks\obj\Debug\PilasOStacks.exe
+C:\Users\Petusos\Desktop\Curso completo programación .NET CORE(C#)\PilasOStacks\PilasOStacks\obj\Debug\PilasOStacks.pdb

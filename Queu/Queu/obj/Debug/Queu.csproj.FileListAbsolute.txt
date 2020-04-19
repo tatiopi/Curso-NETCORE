@@ -1,0 +1,6 @@
+C:\Users\Petusos\Desktop\Curso completo programación .NET CORE(C#)\Queu\Queu\bin\Debug\Queu.exe.config
+C:\Users\Petusos\Desktop\Curso completo programación .NET CORE(C#)\Queu\Queu\obj\Debug\Queu.csprojResolveAssemblyReference.cache
+C:\Users\Petusos\Desktop\Curso completo programación .NET CORE(C#)\Queu\Queu\bin\Debug\Queu.exe
+C:\Users\Petusos\Desktop\Curso completo programación .NET CORE(C#)\Queu\Queu\bin\Debug\Queu.pdb
+C:\Users\Petusos\Desktop\Curso completo programación .NET CORE(C#)\Queu\Queu\obj\Debug\Queu.exe
+C:\Users\Petusos\Desktop\Curso completo programación .NET CORE(C#)\Queu\Queu\obj\Debug\Queu.pdb
