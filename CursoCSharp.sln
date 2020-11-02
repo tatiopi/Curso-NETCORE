@@ -13,13 +13,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_5_Funciones_loc
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Colecciones", "Colecciones", "{694FD427-2996-439C-8795-192A792B90EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_1_arrayList", "CursoCSharp_1_Colecciones\CursoCSharp_1_arrayList.csproj", "{7BBFF3A3-88D7-4201-9C58-20AB8B987508}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_1_arrayList", "CursoCSharp_1_Colecciones\CursoCSharp_1_arrayList.csproj", "{7BBFF3A3-88D7-4201-9C58-20AB8B987508}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_2_pila", "CursoCSharp_2_pila\CursoCSharp_2_pila.csproj", "{757B37B3-B773-45B4-8346-D87DBFAFF1ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_2_pila", "CursoCSharp_2_pila\CursoCSharp_2_pila.csproj", "{757B37B3-B773-45B4-8346-D87DBFAFF1ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_3_queu", "CursoCSharp_3_queu\CursoCSharp_3_queu.csproj", "{34736A51-391A-433F-95FE-1E18753309F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_3_queu", "CursoCSharp_3_queu\CursoCSharp_3_queu.csproj", "{34736A51-391A-433F-95FE-1E18753309F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_4_hashtable", "CursoCSharp_4_HashTable\CursoCSharp_4_hashtable.csproj", "{DF389037-AE24-48E0-B33D-F9C3B1CAB4A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_4_hashtable", "CursoCSharp_4_HashTable\CursoCSharp_4_hashtable.csproj", "{DF389037-AE24-48E0-B33D-F9C3B1CAB4A3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "POO", "POO", "{4A9A3422-5174-43A2-818C-A014B7FDE39E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_1_Objetos_Clases", "CursoCSharp_1_Objetos_Clases\CursoCSharp_1_Objetos_Clases.csproj", "{801AC48B-8066-4C8B-A7A4-5C2D1B024A21}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -59,6 +63,10 @@ Global
 		{DF389037-AE24-48E0-B33D-F9C3B1CAB4A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF389037-AE24-48E0-B33D-F9C3B1CAB4A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF389037-AE24-48E0-B33D-F9C3B1CAB4A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{801AC48B-8066-4C8B-A7A4-5C2D1B024A21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{801AC48B-8066-4C8B-A7A4-5C2D1B024A21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{801AC48B-8066-4C8B-A7A4-5C2D1B024A21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{801AC48B-8066-4C8B-A7A4-5C2D1B024A21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -68,6 +76,7 @@ Global
 		{757B37B3-B773-45B4-8346-D87DBFAFF1ED} = {694FD427-2996-439C-8795-192A792B90EF}
 		{34736A51-391A-433F-95FE-1E18753309F9} = {694FD427-2996-439C-8795-192A792B90EF}
 		{DF389037-AE24-48E0-B33D-F9C3B1CAB4A3} = {694FD427-2996-439C-8795-192A792B90EF}
+		{801AC48B-8066-4C8B-A7A4-5C2D1B024A21} = {4A9A3422-5174-43A2-818C-A014B7FDE39E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A3F80784-C57A-4980-A5FC-C3E760E03C3C}
