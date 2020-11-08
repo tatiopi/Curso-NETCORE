@@ -13,5 +13,15 @@ namespace CursoCSharp_1_Objetos_Clases
         {
 
         }
+
+        public static void Desposito()
+        {
+
+        }
+
+        public static void MostrarSaldo()
+        {
+           
+        }
     }
 }
