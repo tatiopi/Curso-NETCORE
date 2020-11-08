@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace CursoCSharp_5_Polimorfismo
 {
@@ -14,6 +15,19 @@ namespace CursoCSharp_5_Polimorfismo
 
             Lobo lobo = new Lobo();
             lobo.HacerRuido();
+
+            List<Animal> zoo = new List<Animal>();
+
+            zoo.Add(gato);
+            zoo.Add(perro);
+            zoo.Add(lobo);
+
+            Console.WriteLine("----------------------------------------------------------------------");
+
+            foreach( var animal in zoo)
+            {
+                animal.HacerRuido();
+            }
 
             Console.ReadLine();
         }
