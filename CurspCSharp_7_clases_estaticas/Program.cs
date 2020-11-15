@@ -11,8 +11,11 @@ namespace CurspCSharp_7_clases_estaticas
         }
     }
 
+<<<<<<< HEAD
 
     // Se suelen usar las clases staticas en helpers o factorias
+=======
+>>>>>>> 847d3cf5ef13ce08f5d18565b54540ed533b25e6
     public class ClassConInstancia
     {
         public int InstanceProperty { get; set; }

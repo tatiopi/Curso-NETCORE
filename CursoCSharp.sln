@@ -35,6 +35,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_5_Polimorfismo"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clases", "Clases", "{100C6398-8428-49AF-BDD9-2A24474CD15E}"
 EndProject
+<<<<<<< HEAD
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_1_constantes_clases", "CursoCShar_1_eclaracion_de_clases\CursoCSharp_1_constantes_clases.csproj", "{B35F1ED0-CCA4-4C9B-AD74-221897364DA5}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_2_campos_propiedades", "CursoCSharp_2_campos_propiedades\CursoCSharp_2_campos_propiedades.csproj", "{8F82CA66-8D11-48BB-BDA9-CC4D0F00E1D5}"
@@ -60,6 +61,21 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_11_Destructores", "CursoCSharp_11_Destructores\CursoCSharp_11_Destructores.csproj", "{015B1F71-38A0-4D6E-B913-1E1964EB73C2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_12_Sobrecarga", "CursoCSharp_12_Sobrecarga\CursoCSharp_12_Sobrecarga.csproj", "{4E75F6E4-1F4E-4780-B6AA-1ED705BD0C7C}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_1_constantes_clases", "CursoCShar_1_eclaracion_de_clases\CursoCSharp_1_constantes_clases.csproj", "{B35F1ED0-CCA4-4C9B-AD74-221897364DA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_2_campos_propiedades", "CursoCSharp_2_campos_propiedades\CursoCSharp_2_campos_propiedades.csproj", "{8F82CA66-8D11-48BB-BDA9-CC4D0F00E1D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_3_metodos", "CursoCSharp_3_metodos\CursoCSharp_3_metodos.csproj", "{41F82E49-B25E-4514-94EB-E513A9F97362}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_4_nivel_accesibilidad", "CursoCSharp_7_nivel_accesibilidad\CursoCSharp_4_nivel_accesibilidad.csproj", "{138F9ADD-F6F2-45C3-ACDD-152F8B3AB7C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_5_clase_abstracta", "ClaseAbstracta\CursoCSharp_5_clase_abstracta.csproj", "{583F0D48-3650-4821-A90E-ED489BA029BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_6_sealed", "CursoCSharp_9_sealed\CursoCSharp_6_sealed.csproj", "{6EC0ADD5-118F-401E-B47B-8B428E7A9EF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurspCSharp_7_clases_estaticas", "CurspCSharp_7_clases_estaticas\CurspCSharp_7_clases_estaticas.csproj", "{CD1683E9-D1E3-44C8-8145-3CFFDBA09541}"
+>>>>>>> 847d3cf5ef13ce08f5d18565b54540ed533b25e6
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +163,7 @@ Global
 		{CD1683E9-D1E3-44C8-8145-3CFFDBA09541}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD1683E9-D1E3-44C8-8145-3CFFDBA09541}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD1683E9-D1E3-44C8-8145-3CFFDBA09541}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 		{36F37D4D-2175-4BAA-B5B5-C31A40803E22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{36F37D4D-2175-4BAA-B5B5-C31A40803E22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36F37D4D-2175-4BAA-B5B5-C31A40803E22}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -167,6 +184,8 @@ Global
 		{4E75F6E4-1F4E-4780-B6AA-1ED705BD0C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E75F6E4-1F4E-4780-B6AA-1ED705BD0C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E75F6E4-1F4E-4780-B6AA-1ED705BD0C7C}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+>>>>>>> 847d3cf5ef13ce08f5d18565b54540ed533b25e6
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -192,11 +211,14 @@ Global
 		{583F0D48-3650-4821-A90E-ED489BA029BF} = {100C6398-8428-49AF-BDD9-2A24474CD15E}
 		{6EC0ADD5-118F-401E-B47B-8B428E7A9EF9} = {100C6398-8428-49AF-BDD9-2A24474CD15E}
 		{CD1683E9-D1E3-44C8-8145-3CFFDBA09541} = {100C6398-8428-49AF-BDD9-2A24474CD15E}
+<<<<<<< HEAD
 		{36F37D4D-2175-4BAA-B5B5-C31A40803E22} = {100C6398-8428-49AF-BDD9-2A24474CD15E}
 		{B4C11BD0-3311-4332-9A55-D1687BA1C7A7} = {100C6398-8428-49AF-BDD9-2A24474CD15E}
 		{BE72BE1F-BC5C-41C2-B82A-6F249F6B97B8} = {100C6398-8428-49AF-BDD9-2A24474CD15E}
 		{015B1F71-38A0-4D6E-B913-1E1964EB73C2} = {100C6398-8428-49AF-BDD9-2A24474CD15E}
 		{4E75F6E4-1F4E-4780-B6AA-1ED705BD0C7C} = {100C6398-8428-49AF-BDD9-2A24474CD15E}
+=======
+>>>>>>> 847d3cf5ef13ce08f5d18565b54540ed533b25e6
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A3F80784-C57A-4980-A5FC-C3E760E03C3C}
